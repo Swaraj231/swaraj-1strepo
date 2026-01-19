@@ -1,4 +1,4 @@
 # swaraj-1strepo
 This is My first repository
 <br>
-Author - Swaraj Gurule
+Author - Swaraj Changdeo Gurule
